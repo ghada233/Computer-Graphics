@@ -25,6 +25,8 @@
 > https://github.com/ghada233/Computer-Graphics/tree/main/Assignment_Lap1
 
 
-**This repo contains   Ghadah   :+1:  attempt to solve the project problem**
+
+   ------------------------------------------------------------------
+_This repo contains   Ghadah   :+1:  attempt to solve the project problem_
 
 > Our lap  submitted for _Computer-Graphics-CS 451_
