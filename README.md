@@ -22,7 +22,7 @@
  
 ## :crayon:  Assignment_LAP 
 :mushroom: 
-> 1-https://github.com/ghada233/Computer-Graphics/tree/main/Assignment_Lap1
+> https://github.com/ghada233/Computer-Graphics/tree/main/Assignment_Lap1
 
 
 **This repo contains   Ghadah   :+1:  attempt to solve the project problem**
